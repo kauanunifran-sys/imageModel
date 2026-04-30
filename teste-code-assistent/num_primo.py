@@ -1,3 +1,4 @@
+
 def is_prime(n: int) -> bool:
     """
     Verifica se um número inteiro é primo.
